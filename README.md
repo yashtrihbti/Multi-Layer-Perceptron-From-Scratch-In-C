@@ -23,7 +23,7 @@ This implementation of MLP was written using C and can perform multi-class class
 First, clone the project:
 
 ```
-~$ git clone https://github.com/manoharmukku/multilayer-perceptron-in-c
+~$ git clone https://github.com/yashtrihbti/Multi-Layer-Perceptron-From-Scratch-In-C
 ```
 
 Then, go to the cloned directory, and compile the project as below:
